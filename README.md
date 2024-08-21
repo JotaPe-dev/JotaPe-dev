@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Meu nome e João Pedro sou Estudante de análise em desenvolvimento de sistema na Centro Universitario projeção Taguatinga. Com uma ótima capacidade de aprendizado e dedicação. Agora busco avançar na carreira, e aprender com a sua empresa, além de colocar em prática os meus conhecimentos e os que me serão acrescentados ao longo do meu futuro estágio. 👋
 
 <!--
 **JotaPe-dev/JotaPe-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
