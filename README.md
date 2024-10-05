@@ -10,8 +10,8 @@ Um sistema completo de portaria digital para condomínios, com funcionalidades d
 ### [RPG em Python - Estilo Sword Art Online](https://github.com/JotaPe-dev/rpg-python)
 Um RPG inspirado em Sword Art Online, onde os jogadores podem escolher classes e participar de batalhas com um sistema de combate dinâmico e habilidades únicas!
 
-### [Pizzaria Local - Sistema de Pedidos](https://github.com/JotaPe-dev/sistema-pizzaria)
-Sistema para uma pizzaria que permite aos clientes escolherem o tamanho, sabor e quantidade de pizzas, calculando automaticamente o valor total do pedido. Feito em **PHP**.
+### [PokédexJota](https://github.com/JotaPe-dev/PokedexJota)
+Um projeto inspirado no universo Pokémon! A **PokédexJota** permite visualizar informações detalhadas de diversos Pokémon, com uma interface intuitiva e organizada. Criado com **HTML**, **CSS**, **JavaScript** e uma API para integração com dados do mundo Pokémon.
 
 ## 🛠️ Tecnologias que uso
 
