@@ -16,8 +16,8 @@ Um projeto inspirado no universo Pokémon! A **PokédexJota** permite visualizar
 ## 🛠️ Tecnologias que uso
 
 - **Linguagens:** Python, Java, PHP, SQL, HTML, CSS, JavaScript
-- **Frameworks:** Flask, Django, Spring
-- **Ferramentas:** Power BI, Tableau, SEI, Git, GitHub
+- **Frameworks:** Django, Spring
+- **Ferramentas:** Power BI, Git, GitHub
 
 ## 📊 Estatísticas GitHub
 
