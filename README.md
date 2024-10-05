@@ -27,7 +27,7 @@ Um projeto inspirado no universo Pokémon! A **PokédexJota** permite visualizar
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://github.com/JotaPe-dev)
+- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-ferreira-reduzino-3833bb242/)
 - Email: jotape.reduzino@gmail.com
 
 ---
