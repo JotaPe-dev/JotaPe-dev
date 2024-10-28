@@ -1,4 +1,5 @@
 # Olá, eu sou o JotaPe 👋
+Sejam bem vindo ao meu Perfil.
 
 Sou um desenvolvedor apaixonado por programação e tecnologia, focado em criar soluções práticas e funcionais. Atualmente, estou desenvolvendo diversos projetos em linguagens como **Python**, **Java**, **PHP** e mais.
 
