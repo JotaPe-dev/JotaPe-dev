@@ -4,8 +4,8 @@ Sou um desenvolvedor apaixonado por programação e tecnologia, focado em criar 
 
 ## 🚀 Meus Projetos em Destaque
 
-### [Sistema de Portaria Digital](###)
-Um sistema completo de portaria digital para condomínios, com funcionalidades de cadastro e gerenciamento de moradores, visitantes e funcionários. Desenvolvido com **HTML**, **CSS** e **JavaScript**.
+### [Fábrica de Software - UniProjeção - TAG](https://github.com/fabuniprojecaotag)
+Organização oficial do programa Fábrica de Software do UniProjeção de Taguatinga. Aqui, colaboramos em diversos projetos práticos e funcionais.
 
 ### [SiteADTAG](https://github.com/JotaPe-dev/SiteADTAG)
 Um site moderno e responsivo desenvolvido para o projeto ADTAG, utilizando **HTML**, **CSS**, **JavaScript** e tecnologias de front-end otimizadas para performance e acessibilidade.
